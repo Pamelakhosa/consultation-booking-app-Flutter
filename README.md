@@ -1,16 +1,21 @@
-# assignment1_220010142
+# Consultation Booking App flutter
 
-A new Flutter project.
+A Flutter-based mobile application that allows users to register, log in, and book consultations efficiently.
 
-## Getting Started
+## 📱 Features
+- User registration and login
+- Book consultations
+- View consultation details
+- User profile management
+- Clean and responsive UI
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Provider (State Management)
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Project Structure
+- lib/screens → UI screens (Login, Home, Profile, etc.)
+- lib/providers → State management
+- lib/design → Theme and styling
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
